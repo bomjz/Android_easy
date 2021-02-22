@@ -10,7 +10,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:orientation="vertical"
-        tools:layout_editor_absoluteX="155dp"
+        tools:layout_editor_absoluteX="156dp"
         tools:layout_editor_absoluteY="165dp">
 
         <EditText
